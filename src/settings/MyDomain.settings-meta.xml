@@ -19,9 +19,9 @@
     <instancedUrlRedirectHandling>NoRedirect</instancedUrlRedirectHandling>
     <isFirstPartyCookieUseRequired>false</isFirstPartyCookieUseRequired>
     <isIcorInstApiTrafficBlocked>false</isIcorInstApiTrafficBlocked>
-    <isInstancedApiTrafficBlocked>true</isInstancedApiTrafficBlocked>
+    <isInstancedApiTrafficBlocked>false</isInstancedApiTrafficBlocked>
     <logRedirections>false</logRedirections>
-    <myDomainName>opsera79-dev-ed</myDomainName>
+    <myDomainName>opsera-2b-dev-ed</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <onboardCustomerSpecificSuffix>false</onboardCustomerSpecificSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>

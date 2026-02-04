@@ -18,12 +18,12 @@
     <tabs>standard-Incident</tabs>
     <tabs>standard-Problem</tabs>
     <tabs>standard-ChangeRequest</tabs>
-    <tabs>Knowledge__kav</tabs>
+    <tabs>Book__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
     <workspaceConfig>
         <mappings>
-            <tab>Knowledge__kav</tab>
+            <tab>Book__c</tab>
         </mappings>
         <mappings>
             <tab>standard-Account</tab>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Partner_Community_Access_Request__c</fullName>
+    <description>Partner_Community_Access_Request__c.Job_Title__c</description>
+    <externalId>false</externalId>
+    <label>Partner_Community_Access_Request__c.Job_</label>
+    <length>30</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
